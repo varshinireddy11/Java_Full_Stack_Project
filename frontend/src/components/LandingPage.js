@@ -70,7 +70,7 @@ const LandingPage = () => {
               },
             }}
           >
-            Go to Dashboard
+            Go to Batch-3
           </Button>
         </Box>
 
@@ -151,7 +151,7 @@ const LandingPage = () => {
                     },
                   }}
                 >
-                  Go to Dashboard
+                  Go to Batch-3
                 </Button>
               </CardContent>
             </Card>
